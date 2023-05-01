@@ -1,11 +1,12 @@
 {
   "name": "@karpack/react-image",
-  "version": "0.0.0-semantically-released",
+  "version": "1.2.0",
   "main": "index.js",
   "license": "MIT",
   "author": "Hygraph",
   "contributors": [
-    "Hugo Meissner <hugomeissner@icloud.com>"
+    "Hugo Meissner <hugomeissner@icloud.com>",
+    "Kyle Karpack"
   ],
   "scripts": {
     "build": "babel src --out-dir ./ --source-maps",
